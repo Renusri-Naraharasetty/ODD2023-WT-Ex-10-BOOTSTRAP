@@ -103,7 +103,8 @@ Close the program and Display the Output.
 ```
 
 # OUTPUT :
-![Alt text](a.png)
+![a](https://github.com/Renusri-Naraharasetty/ODD2023-WT-Ex-10-BOOTSTRAP/assets/146916363/420da6ac-f13d-47fb-a67a-504d8f772159)
+
 
 
 # EXP 10(b)
@@ -206,7 +207,8 @@ Close the program and Display the Output.
   ```
 
   # OUTPUT :
-  ![Alt text](b.png)
+![b](https://github.com/Renusri-Naraharasetty/ODD2023-WT-Ex-10-BOOTSTRAP/assets/146916363/10a92056-4020-4bd9-9abf-a19dec6c978c)
+
 
 # EXP 10(c)
 # AIM :
@@ -285,7 +287,8 @@ Close the program and Display the Output.
 ```
 
 # OUTPUT :
-![Alt text](c.png)
+![c](https://github.com/Renusri-Naraharasetty/ODD2023-WT-Ex-10-BOOTSTRAP/assets/146916363/725a3fde-519b-4c54-a266-205720931a40)
+
 
 # EXP 10(d)
 # AIM :
@@ -379,7 +382,8 @@ function clearFunc()
 ```
 
 # OUTPUT :
-![Alt text](d.png)
+![d](https://github.com/Renusri-Naraharasetty/ODD2023-WT-Ex-10-BOOTSTRAP/assets/146916363/61751a2b-e8e0-4131-aa8b-f06d90bbfcff)
+
 
 # RESULT :
 All the programs have been run successfylly and the output has been verified.
